@@ -8,6 +8,8 @@ function App() {
     <div className="App">
       <Navbar />
       <ImageGrid />
+      Some chnage
+      some other change
       Router goes here
     </div>
   );
