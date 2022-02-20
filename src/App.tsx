@@ -9,6 +9,7 @@ function App() {
       <Navbar />
       <ImageGrid />
       Some chnage
+      some other change
       Router goes here
     </div>
   );
